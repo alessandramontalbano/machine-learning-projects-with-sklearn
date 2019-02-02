@@ -1,4 +1,4 @@
-# Machine-learnig-projects
+# Machine-learning-projects
 This folder contains various projects:
 - RF_MPL_0.ipynb and RF_MLP_1.ipynb are two projects involving Random Forest and Multilinear perceptron models
 - Risk+aversion+and+ambiguity+%28losses%29.ipynb is the code for an experiment in Behavioral Economics 
