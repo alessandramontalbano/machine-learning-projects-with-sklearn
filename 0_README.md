@@ -9,3 +9,5 @@ This folder contains various ML projects:
 - **SVM+RF.ipynb** is a project which is based on comparing the performance of a Support Vector Machine and Random Forest Model on a numerical dataset
 
 - **Satisfaction-meglio.ipynb** is a Time Series Forecast applied on Net Promoter Scores (NPS), the main objective is to fit the time series data to a seasonal ARIMA model 
+
+- **Open+industrial+data.ipynb** is a project regarding data originated from a compressor on an oil platform in the North Sea (still under progress).
