@@ -2,6 +2,8 @@
 
 This folder contains various ML projects:
 
+- **K-means.ipynb** simple K-means implementation with randomly created data.
+
 - **RF_MPL_0.ipynb** and **RF_MLP_1.ipynb** are two projects in supervised learning: the first compares the performance of a KNN  with a Random Forest, the latter compares a Random Forest and Multilinear perceptron. Both projects use two different numerical datasets of modest size.
 
 - **Risk_aversion_&_ambiguity.ipynb** is a code for a project in Behavioral Economics, it basically analyzes the answers to a survey based on testing ambiguity aversion for losses 
